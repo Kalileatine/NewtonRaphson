@@ -52,3 +52,4 @@ int main()
 
  std::cout << equation << "= 0" << "\n";
 }
+g
